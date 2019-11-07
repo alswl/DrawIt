@@ -56,3 +56,21 @@ Supported Features
 
 Thank you for ranking DrawIt!
 
+----
+
+
+## Update by alswl from http://www.drchip.org/astronaut/vim/index.html#DRAWIT
+
+Updated Jan 05, 2018 (v14i)
+
+*[Manual](http://www.drchip.org/astronaut/vim/doc/DrawIt.txt.html)*
+
+A plugin for drawing vertical, horizontal, and slanted lines using text. With DrawIt, one may use the number pad to leave a trail of dashes, bars, etc behind. Furthermore, it also supports using visual-block specified regions to draw boxes, ellipses, arrowheads, lines, and to specify floods.
+
+New: DrawIt has two new commands, :DIsngl and :DIdbl, that tell DrawIt to draw boxes using utf-8 box characters (single-bar, double-bar). Your current file needs to be using the utf-8 encoding for this to work.
+
+Also available at [vim.sf.net](http://vim.sourceforge.net/scripts/script.php?script_id=40) where you may rank it. The version here requires vim 7.0!!!
+
+A screenshot: [DrawIt Snapshot: a simple feedback system](http://www.drchip.org/images/DrawIt1.jpg)
+
+
